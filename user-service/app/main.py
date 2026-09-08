@@ -139,3 +139,4 @@ def health_check() -> dict[str, str]:
         "status": "healthy",
         "service": "user-service",
     }
+# Task 8.1P: trigger CI/CD pipeline demonstration
