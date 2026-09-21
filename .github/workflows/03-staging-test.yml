@@ -59,5 +59,3 @@ jobs:
           curl \
             --fail \
             --retry 10 \
-            --retry-delay 5 \
-            http://${{ env.FRONTEND_IP }}
